@@ -6,7 +6,7 @@ study
 
 |No.| algorithm |date|
 |:-:|:-|:-|
-|1|[mst](최소 신장 트리.md)|2023.08.14|
+|1|[mst]([최소 신장 트리.md](https://github.com/iacobuschoi/algorithm/blob/8e1c949772217f6318c698971b3f69f7a1dc6855/%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC.md))|2023.08.14|
 |2|최단경로||
 |3|이분매칭||
 |4|LCA||
