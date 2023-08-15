@@ -1,4 +1,4 @@
-# algorithm
+# Algorithm Study log!
 
 ## Graph
 
