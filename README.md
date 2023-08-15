@@ -1,8 +1,6 @@
 # algorithm
-study
--
 
-**- Graph**
+## Graph
 
 |No.| algorithm |date|
 |:-:|:-|:-|
@@ -13,19 +11,19 @@ study
 |5|최대유량||
 |6|HLD||
 
-**- 기하**
+## 기하
 |No.| algorithm |date|
 |:-:|:-|:-|
 |1|CCW||
 |2|컨벡스헐||
 |3|로테이팅 캘리퍼스||
 
-**- dp**
+## DP
 |No.| algorithm |date|
 |:-:|:-|:-|
 |1|CHT||
 
-**- 자료구조**
+## 자료구조
 |No.| algorithm |date|
 |:-:|:-|:-|
 |1|seg tree||
@@ -34,13 +32,13 @@ study
 |4|splay tree||
 |5|link cut||
 
-**- 문자열**
+## 문자열
 |No.| algorithm |date|
 |:-:|:-|:-|
 |1|KMP||
 |2|suffix array,lcp||
 
-**- 나머지**
+## 나머지
 |No.| algorithm |date|
 |:-:|:-|:-|
 |1|제곱근 분할법||
